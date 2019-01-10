@@ -17,7 +17,7 @@ body{
   margin: 10px;
   border-radius: 30%;
   box-shadow: 0 5px 15px -5px #00000070;
-  color: #3498db;
+  color: #3734db;
   overflow: hidden;
   position: relative;
 }
@@ -28,14 +28,14 @@ body{
 }
 .btn:hover i{
   transform: scale(1.3);
-  color: #f1f1f1;
+  color: #ffffff;
 }
 .btn::before{
   content: "";
   position: absolute;
   width: 120%;
   height: 120%;
-  background: #3498db;
+  background: #8434db;
   transform: rotate(45deg);
   left: -110%;
   top: 90%;
